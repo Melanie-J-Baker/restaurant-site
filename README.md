@@ -1,5 +1,7 @@
 # restaurant-site
 
+https://melanie-j-baker.github.io/restaurant-site/
+
 Instructions taken from the Odin Project at: https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
 
 ![image](https://github.com/Melanie-J-Baker/restaurant-site/assets/104843873/d4ed34f7-c188-4c62-b9f1-b541ab9fe8a2)
