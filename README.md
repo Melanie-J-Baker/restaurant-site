@@ -1,5 +1,6 @@
 # restaurant-site
-Created as part of the Odin project curriculum.
+
+Created as part of the Odin Project curriculum using JavaScript and webpack.
 
 Visit the site at:
 https://melanie-j-baker.github.io/restaurant-site/
